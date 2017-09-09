@@ -4,9 +4,11 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+0001_initial.py	../my-first-blog/mysite/blog/migrations/0001_initial.py	1;"	kind:file	line:1
 0001_initial.py	../mysite/blog/migrations/0001_initial.py	1;"	kind:file	line:1
 ABCMeta	../myvenv/lib/python2.7/abc.py	/^class ABCMeta(type):$/;"	kind:class	line:65
 ABCMeta	../myvenv/local/lib/python2.7/abc.py	/^class ABCMeta(type):$/;"	kind:class	line:65
+ALLOWED_HOSTS	../my-first-blog/mysite/mysite/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
 ALLOWED_HOSTS	../mysite/mysite/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
 ANY	../myvenv/lib/python2.7/sre_constants.py	/^ANY = "any"$/;"	kind:variable	line:35
 ANY	../myvenv/local/lib/python2.7/sre_constants.py	/^ANY = "any"$/;"	kind:variable	line:35
@@ -52,6 +54,7 @@ AT_UNI_BOUNDARY	../myvenv/lib/python2.7/sre_constants.py	/^AT_UNI_BOUNDARY = "at
 AT_UNI_BOUNDARY	../myvenv/local/lib/python2.7/sre_constants.py	/^AT_UNI_BOUNDARY = "at_uni_boundary"$/;"	kind:variable	line:79
 AT_UNI_NON_BOUNDARY	../myvenv/lib/python2.7/sre_constants.py	/^AT_UNI_NON_BOUNDARY = "at_uni_non_boundary"$/;"	kind:variable	line:80
 AT_UNI_NON_BOUNDARY	../myvenv/local/lib/python2.7/sre_constants.py	/^AT_UNI_NON_BOUNDARY = "at_uni_non_boundary"$/;"	kind:variable	line:80
+BASE_DIR	../my-first-blog/mysite/mysite/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
 BASE_DIR	../mysite/mysite/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
 BIGCHARSET	../myvenv/lib/python2.7/sre_constants.py	/^BIGCHARSET = "bigcharset"$/;"	kind:variable	line:40
 BIGCHARSET	../myvenv/local/lib/python2.7/sre_constants.py	/^BIGCHARSET = "bigcharset"$/;"	kind:variable	line:40
@@ -373,7 +376,9 @@ ComplexType	../myvenv/lib/python2.7/types.py	/^    ComplexType = complex$/;"	kin
 ComplexType	../myvenv/local/lib/python2.7/types.py	/^    ComplexType = complex$/;"	kind:variable	line:21
 Container	../myvenv/lib/python2.7/_abcoll.py	/^class Container:$/;"	kind:class	line:106
 Container	../myvenv/local/lib/python2.7/_abcoll.py	/^class Container:$/;"	kind:class	line:106
+DATABASES	../my-first-blog/mysite/mysite/settings.py	/^DATABASES = {$/;"	kind:variable	line:78
 DATABASES	../mysite/mysite/settings.py	/^DATABASES = {$/;"	kind:variable	line:78
+DEBUG	../my-first-blog/mysite/mysite/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
 DEBUG	../mysite/mysite/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
 DEBUG	../myvenv/lib/python2.7/re.py	/^DEBUG = sre_compile.SRE_FLAG_DEBUG # dump pattern after compilation$/;"	kind:variable	line:130
 DEBUG	../myvenv/local/lib/python2.7/re.py	/^DEBUG = sre_compile.SRE_FLAG_DEBUG # dump pattern after compilation$/;"	kind:variable	line:130
@@ -423,6 +428,7 @@ IN	../myvenv/lib/python2.7/sre_constants.py	/^IN = "in"$/;"	kind:variable	line:4
 IN	../myvenv/local/lib/python2.7/sre_constants.py	/^IN = "in"$/;"	kind:variable	line:48
 INFO	../myvenv/lib/python2.7/sre_constants.py	/^INFO = "info"$/;"	kind:variable	line:50
 INFO	../myvenv/local/lib/python2.7/sre_constants.py	/^INFO = "info"$/;"	kind:variable	line:50
+INSTALLED_APPS	../my-first-blog/mysite/mysite/settings.py	/^INSTALLED_APPS = ($/;"	kind:variable	line:33
 INSTALLED_APPS	../mysite/mysite/settings.py	/^INSTALLED_APPS = ($/;"	kind:variable	line:33
 IN_IGNORE	../myvenv/lib/python2.7/sre_constants.py	/^IN_IGNORE = "in_ignore"$/;"	kind:variable	line:49
 IN_IGNORE	../myvenv/local/lib/python2.7/sre_constants.py	/^IN_IGNORE = "in_ignore"$/;"	kind:variable	line:49
@@ -918,6 +924,7 @@ JUMP	../myvenv/lib/python2.7/sre_constants.py	/^JUMP = "jump"$/;"	kind:variable	
 JUMP	../myvenv/local/lib/python2.7/sre_constants.py	/^JUMP = "jump"$/;"	kind:variable	line:51
 KeysView	../myvenv/lib/python2.7/_abcoll.py	/^class KeysView(MappingView, Set):$/;"	kind:class	line:443
 KeysView	../myvenv/local/lib/python2.7/_abcoll.py	/^class KeysView(MappingView, Set):$/;"	kind:class	line:443
+LANGUAGE_CODE	../my-first-blog/mysite/mysite/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:89
 LANGUAGE_CODE	../mysite/mysite/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:89
 LC_ALL	../myvenv/lib/python2.7/locale.py	/^    LC_ALL = 6$/;"	kind:variable	line:52
 LC_ALL	../myvenv/local/lib/python2.7/locale.py	/^    LC_ALL = 6$/;"	kind:variable	line:52
@@ -957,6 +964,7 @@ MAX_REPEAT	../myvenv/lib/python2.7/sre_constants.py	/^MAX_REPEAT = "max_repeat"$
 MAX_REPEAT	../myvenv/local/lib/python2.7/sre_constants.py	/^MAX_REPEAT = "max_repeat"$/;"	kind:variable	line:55
 MAX_UNTIL	../myvenv/lib/python2.7/sre_constants.py	/^MAX_UNTIL = "max_until"$/;"	kind:variable	line:56
 MAX_UNTIL	../myvenv/local/lib/python2.7/sre_constants.py	/^MAX_UNTIL = "max_until"$/;"	kind:variable	line:56
+MIDDLEWARE_CLASSES	../my-first-blog/mysite/mysite/settings.py	/^MIDDLEWARE_CLASSES = ($/;"	kind:variable	line:43
 MIDDLEWARE_CLASSES	../mysite/mysite/settings.py	/^MIDDLEWARE_CLASSES = ($/;"	kind:variable	line:43
 MIN_REPEAT	../myvenv/lib/python2.7/sre_constants.py	/^MIN_REPEAT = "min_repeat"$/;"	kind:variable	line:57
 MIN_REPEAT	../myvenv/local/lib/python2.7/sre_constants.py	/^MIN_REPEAT = "min_repeat"$/;"	kind:variable	line:57
@@ -972,6 +980,7 @@ MemberDescriptorType	../myvenv/lib/python2.7/types.py	/^MemberDescriptorType = t
 MemberDescriptorType	../myvenv/local/lib/python2.7/types.py	/^MemberDescriptorType = type(FunctionType.func_globals)$/;"	kind:variable	line:82
 MethodType	../myvenv/lib/python2.7/types.py	/^MethodType = type(_x._m)$/;"	kind:variable	line:57
 MethodType	../myvenv/local/lib/python2.7/types.py	/^MethodType = type(_x._m)$/;"	kind:variable	line:57
+Migration	../my-first-blog/mysite/blog/migrations/0001_initial.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:9
 Migration	../mysite/blog/migrations/0001_initial.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:9
 ModuleType	../myvenv/lib/python2.7/site.py	/^    ModuleType = type(os)$/;"	kind:variable	line:90
 ModuleType	../myvenv/lib/python2.7/types.py	/^ModuleType = type(sys)$/;"	kind:variable	line:62
@@ -1007,6 +1016,7 @@ PREFIXES	../myvenv/lib/python2.7/site.py	/^PREFIXES = [sys.prefix, sys.exec_pref
 PREFIXES	../myvenv/local/lib/python2.7/site.py	/^PREFIXES = [sys.prefix, sys.exec_prefix]$/;"	kind:variable	line:78
 Pattern	../myvenv/lib/python2.7/sre_parse.py	/^class Pattern:$/;"	kind:class	line:65
 Pattern	../myvenv/local/lib/python2.7/sre_parse.py	/^class Pattern:$/;"	kind:class	line:65
+Post	../my-first-blog/mysite/blog/models.py	/^class Post(models.Model):$/;"	kind:class	line:5
 Post	../mysite/blog/models.py	/^class Post(models.Model):$/;"	kind:class	line:5
 Quitter	../myvenv/lib/python2.7/site.py	/^    class Quitter(object):$/;"	kind:class	line:391
 Quitter	../myvenv/local/lib/python2.7/site.py	/^    class Quitter(object):$/;"	kind:class	line:391
@@ -1018,7 +1028,9 @@ REPEAT_CHARS	../myvenv/lib/python2.7/sre_parse.py	/^REPEAT_CHARS = "*+?{"$/;"	ki
 REPEAT_CHARS	../myvenv/local/lib/python2.7/sre_parse.py	/^REPEAT_CHARS = "*+?{"$/;"	kind:variable	line:20
 REPEAT_ONE	../myvenv/lib/python2.7/sre_constants.py	/^REPEAT_ONE = "repeat_one"$/;"	kind:variable	line:64
 REPEAT_ONE	../myvenv/local/lib/python2.7/sre_constants.py	/^REPEAT_ONE = "repeat_one"$/;"	kind:variable	line:64
+ROOT_URLCONF	../my-first-blog/mysite/mysite/settings.py	/^ROOT_URLCONF = 'mysite.urls'$/;"	kind:variable	line:54
 ROOT_URLCONF	../mysite/mysite/settings.py	/^ROOT_URLCONF = 'mysite.urls'$/;"	kind:variable	line:54
+SECRET_KEY	../my-first-blog/mysite/mysite/settings.py	/^SECRET_KEY = 'm8m)nthoj!5zv@0g^*irl(+23gzn6&a!(i7b+rf%a&!v5t(q9w'$/;"	kind:variable	line:23
 SECRET_KEY	../mysite/mysite/settings.py	/^SECRET_KEY = 'm8m)nthoj!5zv@0g^*irl(+23gzn6&a!(i7b+rf%a&!v5t(q9w'$/;"	kind:variable	line:23
 SEEK_CUR	../myvenv/lib/python2.7/os.py	/^SEEK_CUR = 1$/;"	kind:variable	line:128
 SEEK_CUR	../myvenv/local/lib/python2.7/os.py	/^SEEK_CUR = 1$/;"	kind:variable	line:128
@@ -1060,7 +1072,9 @@ SRE_INFO_LITERAL	../myvenv/lib/python2.7/sre_constants.py	/^SRE_INFO_LITERAL = 2
 SRE_INFO_LITERAL	../myvenv/local/lib/python2.7/sre_constants.py	/^SRE_INFO_LITERAL = 2 # entire pattern is literal (given by prefix)$/;"	kind:variable	line:218
 SRE_INFO_PREFIX	../myvenv/lib/python2.7/sre_constants.py	/^SRE_INFO_PREFIX = 1 # has prefix$/;"	kind:variable	line:217
 SRE_INFO_PREFIX	../myvenv/local/lib/python2.7/sre_constants.py	/^SRE_INFO_PREFIX = 1 # has prefix$/;"	kind:variable	line:217
+STATIC_ROOT	../my-first-blog/mysite/mysite/settings.py	/^STATIC_ROOT = os.path.join(BASE_DIR, 'static')$/;"	kind:variable	line:104
 STATIC_ROOT	../mysite/mysite/settings.py	/^STATIC_ROOT = os.path.join(BASE_DIR, 'static')$/;"	kind:variable	line:104
+STATIC_URL	../my-first-blog/mysite/mysite/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:103
 STATIC_URL	../mysite/mysite/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:103
 STRING_TYPES	../myvenv/lib/python2.7/sre_compile.py	/^    STRING_TYPES = (type(""), type(unicode("")))$/;"	kind:variable	line:544
 STRING_TYPES	../myvenv/lib/python2.7/sre_compile.py	/^    STRING_TYPES = (type(""),)$/;"	kind:variable	line:542
@@ -1664,7 +1678,9 @@ SubPattern	../myvenv/lib/python2.7/sre_parse.py	/^class SubPattern:$/;"	kind:cla
 SubPattern	../myvenv/local/lib/python2.7/sre_parse.py	/^class SubPattern:$/;"	kind:class	line:90
 T	../myvenv/lib/python2.7/encodings/punycode.py	/^def T(j, bias):$/;"	kind:function	line:72
 T	../myvenv/local/lib/python2.7/encodings/punycode.py	/^def T(j, bias):$/;"	kind:function	line:72
+TEMPLATES	../my-first-blog/mysite/mysite/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:56
 TEMPLATES	../mysite/mysite/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:56
+TIME_ZONE	../my-first-blog/mysite/mysite/settings.py	/^TIME_ZONE = 'America\/Bahia'$/;"	kind:variable	line:91
 TIME_ZONE	../mysite/mysite/settings.py	/^TIME_ZONE = 'America\/Bahia'$/;"	kind:variable	line:91
 ToASCII	../myvenv/lib/python2.7/encodings/idna.py	/^def ToASCII(label):$/;"	kind:function	line:62
 ToASCII	../myvenv/local/lib/python2.7/encodings/idna.py	/^def ToASCII(label):$/;"	kind:function	line:62
@@ -1696,8 +1712,11 @@ USER_BASE	../myvenv/lib/python2.7/site.py	/^USER_BASE = None$/;"	kind:variable	l
 USER_BASE	../myvenv/local/lib/python2.7/site.py	/^USER_BASE = None$/;"	kind:variable	line:84
 USER_SITE	../myvenv/lib/python2.7/site.py	/^USER_SITE = None$/;"	kind:variable	line:83
 USER_SITE	../myvenv/local/lib/python2.7/site.py	/^USER_SITE = None$/;"	kind:variable	line:83
+USE_I18N	../my-first-blog/mysite/mysite/settings.py	/^USE_I18N = True$/;"	kind:variable	line:93
 USE_I18N	../mysite/mysite/settings.py	/^USE_I18N = True$/;"	kind:variable	line:93
+USE_L10N	../my-first-blog/mysite/mysite/settings.py	/^USE_L10N = True$/;"	kind:variable	line:95
 USE_L10N	../mysite/mysite/settings.py	/^USE_L10N = True$/;"	kind:variable	line:95
+USE_TZ	../my-first-blog/mysite/mysite/settings.py	/^USE_TZ = True$/;"	kind:variable	line:97
 USE_TZ	../mysite/mysite/settings.py	/^USE_TZ = True$/;"	kind:variable	line:97
 UnboundMethodType	../myvenv/lib/python2.7/types.py	/^UnboundMethodType = type(_C._m)         # Same as MethodType$/;"	kind:variable	line:54
 UnboundMethodType	../myvenv/local/lib/python2.7/types.py	/^UnboundMethodType = type(_C._m)         # Same as MethodType$/;"	kind:variable	line:54
@@ -1711,6 +1730,7 @@ ValuesView	../myvenv/lib/python2.7/_abcoll.py	/^class ValuesView(MappingView):$/
 ValuesView	../myvenv/local/lib/python2.7/_abcoll.py	/^class ValuesView(MappingView):$/;"	kind:class	line:479
 WHITESPACE	../myvenv/lib/python2.7/sre_parse.py	/^WHITESPACE = set(" \\t\\n\\r\\v\\f")$/;"	kind:variable	line:27
 WHITESPACE	../myvenv/local/lib/python2.7/sre_parse.py	/^WHITESPACE = set(" \\t\\n\\r\\v\\f")$/;"	kind:variable	line:27
+WSGI_APPLICATION	../my-first-blog/mysite/mysite/settings.py	/^WSGI_APPLICATION = 'mysite.wsgi.application'$/;"	kind:variable	line:72
 WSGI_APPLICATION	../mysite/mysite/settings.py	/^WSGI_APPLICATION = 'mysite.wsgi.application'$/;"	kind:variable	line:72
 WarningMessage	../myvenv/lib/python2.7/warnings.py	/^class WarningMessage(object):$/;"	kind:class	line:303
 WarningMessage	../myvenv/local/lib/python2.7/warnings.py	/^class WarningMessage(object):$/;"	kind:class	line:303
@@ -1990,6 +2010,9 @@ __init__	../myvenv/local/lib/python2.7/sre_parse.py	/^    def __init__(self, pat
 __init__	../myvenv/local/lib/python2.7/sre_parse.py	/^    def __init__(self, string):$/;"	kind:member	line:189
 __init__	../myvenv/local/lib/python2.7/warnings.py	/^    def __init__(self, message, category, filename, lineno, file=None,$/;"	kind:member	line:310
 __init__	../myvenv/local/lib/python2.7/warnings.py	/^    def __init__(self, record=False, module=None):$/;"	kind:member	line:340
+__init__.py	../my-first-blog/mysite/blog/__init__.py	1;"	kind:file	line:1
+__init__.py	../my-first-blog/mysite/blog/migrations/__init__.py	1;"	kind:file	line:1
+__init__.py	../my-first-blog/mysite/mysite/__init__.py	1;"	kind:file	line:1
 __init__.py	../mysite/blog/__init__.py	1;"	kind:file	line:1
 __init__.py	../mysite/blog/migrations/__init__.py	1;"	kind:file	line:1
 __init__.py	../mysite/mysite/__init__.py	1;"	kind:file	line:1
@@ -2133,6 +2156,7 @@ __setitem__	../myvenv/local/lib/python2.7/os.py	/^            def __setitem__(se
 __setitem__	../myvenv/local/lib/python2.7/sre_parse.py	/^    def __setitem__(self, index, code):$/;"	kind:member	line:145
 __setup	../myvenv/lib/python2.7/site.py	/^    def __setup(self):$/;"	kind:member	line:421
 __setup	../myvenv/local/lib/python2.7/site.py	/^    def __setup(self):$/;"	kind:member	line:421
+__str__	../my-first-blog/mysite/blog/models.py	/^def __str__(self):$/;"	kind:function	line:16
 __str__	../mysite/blog/models.py	/^def __str__(self):$/;"	kind:function	line:16
 __str__	../myvenv/lib/python2.7/warnings.py	/^    def __str__(self):$/;"	kind:member	line:317
 __str__	../myvenv/local/lib/python2.7/warnings.py	/^    def __str__(self):$/;"	kind:member	line:317
@@ -2428,6 +2452,7 @@ addsitepackages	../myvenv/lib/python2.7/site.py	/^def addsitepackages(known_path
 addsitepackages	../myvenv/local/lib/python2.7/site.py	/^def addsitepackages(known_paths, sys_prefix=sys.prefix, exec_prefix=sys.exec_prefix):$/;"	kind:function	line:209
 addusersitepackages	../myvenv/lib/python2.7/site.py	/^def addusersitepackages(known_paths):$/;"	kind:function	line:309
 addusersitepackages	../myvenv/local/lib/python2.7/site.py	/^def addusersitepackages(known_paths):$/;"	kind:function	line:309
+admin.py	../my-first-blog/mysite/blog/admin.py	1;"	kind:file	line:1
 admin.py	../mysite/blog/admin.py	1;"	kind:file	line:1
 aliases	../myvenv/lib/python2.7/encodings/aliases.py	/^aliases = {$/;"	kind:variable	line:18
 aliases	../myvenv/local/lib/python2.7/encodings/aliases.py	/^aliases = {$/;"	kind:variable	line:18
@@ -2445,6 +2470,7 @@ append	../myvenv/lib/python2.7/_abcoll.py	/^    def append(self, value):$/;"	kin
 append	../myvenv/lib/python2.7/sre_parse.py	/^    def append(self, code):$/;"	kind:member	line:149
 append	../myvenv/local/lib/python2.7/_abcoll.py	/^    def append(self, value):$/;"	kind:member	line:662
 append	../myvenv/local/lib/python2.7/sre_parse.py	/^    def append(self, code):$/;"	kind:member	line:149
+application	../my-first-blog/mysite/mysite/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
 application	../mysite/mysite/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
 ascii.py	../myvenv/lib/python2.7/encodings/ascii.py	1;"	kind:file	line:1
 ascii.py	../myvenv/local/lib/python2.7/encodings/ascii.py	1;"	kind:file	line:1
@@ -2452,6 +2478,7 @@ atof	../myvenv/lib/python2.7/locale.py	/^def atof(string, func=float):$/;"	kind:
 atof	../myvenv/local/lib/python2.7/locale.py	/^def atof(string, func=float):$/;"	kind:function	line:307
 atoi	../myvenv/lib/python2.7/locale.py	/^def atoi(str):$/;"	kind:function	line:320
 atoi	../myvenv/local/lib/python2.7/locale.py	/^def atoi(str):$/;"	kind:function	line:320
+author	../my-first-blog/mysite/blog/models.py	/^    author = models.ForeignKey('auth.User')$/;"	kind:variable	line:6
 author	../mysite/blog/models.py	/^    author = models.ForeignKey('auth.User')$/;"	kind:variable	line:6
 backslashreplace_errors	../myvenv/lib/python2.7/codecs.py	/^    backslashreplace_errors = None$/;"	kind:variable	line:1097
 backslashreplace_errors	../myvenv/lib/python2.7/codecs.py	/^    backslashreplace_errors = lookup_error("backslashreplace")$/;"	kind:variable	line:1090
@@ -2855,6 +2882,7 @@ cp949.py	../myvenv/lib/python2.7/encodings/cp949.py	1;"	kind:file	line:1
 cp949.py	../myvenv/local/lib/python2.7/encodings/cp949.py	1;"	kind:file	line:1
 cp950.py	../myvenv/lib/python2.7/encodings/cp950.py	1;"	kind:file	line:1
 cp950.py	../myvenv/local/lib/python2.7/encodings/cp950.py	1;"	kind:file	line:1
+created_date	../my-first-blog/mysite/blog/models.py	/^    created_date = models.DateTimeField(default=timezone.now)$/;"	kind:variable	line:9
 created_date	../mysite/blog/models.py	/^    created_date = models.DateTimeField(default=timezone.now)$/;"	kind:variable	line:9
 curdir	../myvenv/lib/python2.7/ntpath.py	/^curdir = '.'$/;"	kind:variable	line:25
 curdir	../myvenv/lib/python2.7/posixpath.py	/^curdir = '.'$/;"	kind:variable	line:30
@@ -3482,6 +3510,7 @@ defpath	../myvenv/lib/python2.7/posixpath.py	/^defpath = ':\/bin:\/usr\/bin'$/;"
 defpath	../myvenv/local/lib/python2.7/ntpath.py	/^    defpath = '\\\\Windows'$/;"	kind:variable	line:33
 defpath	../myvenv/local/lib/python2.7/ntpath.py	/^defpath = '.;C:\\\\bin'$/;"	kind:variable	line:31
 defpath	../myvenv/local/lib/python2.7/posixpath.py	/^defpath = ':\/bin:\/usr\/bin'$/;"	kind:variable	line:35
+dependencies	../my-first-blog/mysite/blog/migrations/0001_initial.py	/^    dependencies = [$/;"	kind:variable	line:11
 dependencies	../mysite/blog/migrations/0001_initial.py	/^    dependencies = [$/;"	kind:variable	line:11
 devnull	../myvenv/lib/python2.7/ntpath.py	/^devnull = 'nul'$/;"	kind:variable	line:37
 devnull	../myvenv/lib/python2.7/posixpath.py	/^devnull = '\/dev\/null'$/;"	kind:variable	line:37
@@ -4165,6 +4194,7 @@ extsep	../myvenv/local/lib/python2.7/ntpath.py	/^extsep = '.'$/;"	kind:variable	
 extsep	../myvenv/local/lib/python2.7/posixpath.py	/^extsep = '.'$/;"	kind:variable	line:32
 f	../myvenv/lib/python2.7/sre_constants.py	/^    f = open("sre_constants.h", "w")$/;"	kind:variable	line:227
 f	../myvenv/local/lib/python2.7/sre_constants.py	/^    f = open("sre_constants.h", "w")$/;"	kind:variable	line:227
+fields	../my-first-blog/mysite/blog/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:18
 fields	../mysite/blog/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:18
 file_encoding	../myvenv/lib/python2.7/codecs.py	/^    file_encoding = 'unknown'$/;"	kind:variable	line:759
 file_encoding	../myvenv/local/lib/python2.7/codecs.py	/^    file_encoding = 'unknown'$/;"	kind:variable	line:759
@@ -4740,6 +4770,7 @@ makedirs	../myvenv/lib/python2.7/os.py	/^def makedirs(name, mode=0777):$/;"	kind
 makedirs	../myvenv/local/lib/python2.7/os.py	/^def makedirs(name, mode=0777):$/;"	kind:function	line:136
 makepath	../myvenv/lib/python2.7/site.py	/^def makepath(*paths):$/;"	kind:function	line:92
 makepath	../myvenv/local/lib/python2.7/site.py	/^def makepath(*paths):$/;"	kind:function	line:92
+manage.py	../my-first-blog/mysite/manage.py	1;"	kind:file	line:1
 manage.py	../mysite/manage.py	1;"	kind:file	line:1
 match	../myvenv/lib/python2.7/re.py	/^def match(pattern, string, flags=0):$/;"	kind:function	line:138
 match	../myvenv/lib/python2.7/sre_parse.py	/^    def match(self, char, skip=1):$/;"	kind:member	line:206
@@ -4747,7 +4778,9 @@ match	../myvenv/local/lib/python2.7/re.py	/^def match(pattern, string, flags=0):
 match	../myvenv/local/lib/python2.7/sre_parse.py	/^    def match(self, char, skip=1):$/;"	kind:member	line:206
 mbcs.py	../myvenv/lib/python2.7/encodings/mbcs.py	1;"	kind:file	line:1
 mbcs.py	../myvenv/local/lib/python2.7/encodings/mbcs.py	1;"	kind:file	line:1
+models.py	../my-first-blog/mysite/blog/models.py	1;"	kind:file	line:1
 models.py	../mysite/blog/models.py	1;"	kind:file	line:1
+name	../my-first-blog/mysite/blog/migrations/0001_initial.py	/^            name='Post',$/;"	kind:variable	line:17
 name	../mysite/blog/migrations/0001_initial.py	/^            name='Post',$/;"	kind:variable	line:17
 name	../myvenv/lib/python2.7/os.py	/^    name = 'ce'$/;"	kind:variable	line:88
 name	../myvenv/lib/python2.7/os.py	/^    name = 'nt'$/;"	kind:variable	line:56
@@ -4801,6 +4834,7 @@ open	../myvenv/lib/python2.7/codecs.py	/^def open(filename, mode='rb', encoding=
 open	../myvenv/local/lib/python2.7/codecs.py	/^def open(filename, mode='rb', encoding=None, errors='strict', buffering=1):$/;"	kind:function	line:856
 opengroup	../myvenv/lib/python2.7/sre_parse.py	/^    def opengroup(self, name=None):$/;"	kind:member	line:74
 opengroup	../myvenv/local/lib/python2.7/sre_parse.py	/^    def opengroup(self, name=None):$/;"	kind:member	line:74
+operations	../my-first-blog/mysite/blog/migrations/0001_initial.py	/^    operations = [$/;"	kind:variable	line:15
 operations	../mysite/blog/migrations/0001_initial.py	/^    operations = [$/;"	kind:variable	line:15
 opt_flags	../myvenv/bin/python-config	/^opt_flags = [flag for (flag, val) in opts]$/;"	kind:variable	line:33
 opt_flags	../myvenv/local/bin/python-config	/^opt_flags = [flag for (flag, val) in opts]$/;"	kind:variable	line:33
@@ -4854,11 +4888,15 @@ popitem	../myvenv/local/lib/python2.7/UserDict.py	/^    def popitem(self):$/;"	k
 popitem	../myvenv/local/lib/python2.7/_abcoll.py	/^    def popitem(self):$/;"	kind:member	line:528
 posixpath.py	../myvenv/lib/python2.7/posixpath.py	1;"	kind:file	line:1
 posixpath.py	../myvenv/local/lib/python2.7/posixpath.py	1;"	kind:file	line:1
+post_list	../mysite/blog/views.py	/^def post_list(request):$/;"	kind:function	line:6
+post_list	../mysite/blog/views.py	/^def post_list(request):$/;"	kind:function	line:9
 prev_sys_path	../myvenv/bin/activate_this.py	/^prev_sys_path = list(sys.path)$/;"	kind:variable	line:23
 prev_sys_path	../myvenv/local/bin/activate_this.py	/^prev_sys_path = list(sys.path)$/;"	kind:variable	line:23
 ptcp154.py	../myvenv/lib/python2.7/encodings/ptcp154.py	1;"	kind:file	line:1
 ptcp154.py	../myvenv/local/lib/python2.7/encodings/ptcp154.py	1;"	kind:file	line:1
+publish	../my-first-blog/mysite/blog/models.py	/^def publish(self):$/;"	kind:function	line:12
 publish	../mysite/blog/models.py	/^def publish(self):$/;"	kind:function	line:12
+published_date	../my-first-blog/mysite/blog/models.py	/^    published_date = models.DateTimeField(blank=True, null=True)$/;"	kind:variable	line:10
 published_date	../mysite/blog/models.py	/^    published_date = models.DateTimeField(blank=True, null=True)$/;"	kind:variable	line:10
 punycode.py	../myvenv/lib/python2.7/encodings/punycode.py	1;"	kind:file	line:1
 punycode.py	../myvenv/local/lib/python2.7/encodings/punycode.py	1;"	kind:file	line:1
@@ -5054,6 +5092,7 @@ setstate	../myvenv/local/lib/python2.7/encodings/utf_16.py	/^    def setstate(se
 setstate	../myvenv/local/lib/python2.7/encodings/utf_32.py	/^    def setstate(self, state):$/;"	kind:member	line:39
 setstate	../myvenv/local/lib/python2.7/encodings/utf_32.py	/^    def setstate(self, state):$/;"	kind:member	line:84
 setstate	../myvenv/local/lib/python2.7/encodings/utf_8_sig.py	/^    def setstate(self, state):$/;"	kind:member	line:44
+settings.py	../my-first-blog/mysite/mysite/settings.py	1;"	kind:file	line:1
 settings.py	../mysite/mysite/settings.py	1;"	kind:file	line:1
 shift_jis.py	../myvenv/lib/python2.7/encodings/shift_jis.py	1;"	kind:file	line:1
 shift_jis.py	../myvenv/local/lib/python2.7/encodings/shift_jis.py	1;"	kind:file	line:1
@@ -5153,10 +5192,13 @@ tell	../myvenv/lib/python2.7/sre_parse.py	/^    def tell(self):$/;"	kind:member	
 tell	../myvenv/local/lib/python2.7/sre_parse.py	/^    def tell(self):$/;"	kind:member	line:216
 template	../myvenv/lib/python2.7/re.py	/^def template(pattern, flags=0):$/;"	kind:function	line:201
 template	../myvenv/local/lib/python2.7/re.py	/^def template(pattern, flags=0):$/;"	kind:function	line:201
+tests.py	../my-first-blog/mysite/blog/tests.py	1;"	kind:file	line:1
 tests.py	../mysite/blog/tests.py	1;"	kind:file	line:1
+text	../my-first-blog/mysite/blog/models.py	/^    text = models.TextField()$/;"	kind:variable	line:8
 text	../mysite/blog/models.py	/^    text = models.TextField()$/;"	kind:variable	line:8
 tis_620.py	../myvenv/lib/python2.7/encodings/tis_620.py	1;"	kind:file	line:1
 tis_620.py	../myvenv/local/lib/python2.7/encodings/tis_620.py	1;"	kind:file	line:1
+title	../my-first-blog/mysite/blog/models.py	/^    title = models.CharField(max_length=200)$/;"	kind:variable	line:7
 title	../mysite/blog/models.py	/^    title = models.CharField(max_length=200)$/;"	kind:variable	line:7
 translate	../myvenv/lib/python2.7/fnmatch.py	/^def translate(pat):$/;"	kind:function	line:85
 translate	../myvenv/local/lib/python2.7/fnmatch.py	/^def translate(pat):$/;"	kind:function	line:85
@@ -5188,7 +5230,11 @@ update	../myvenv/local/lib/python2.7/os.py	/^            def update(self,  dict=
 update	../myvenv/local/lib/python2.7/os.py	/^            def update(self, dict=None, **kwargs):$/;"	kind:member	line:448
 updatecache	../myvenv/lib/python2.7/linecache.py	/^def updatecache(filename, module_globals=None):$/;"	kind:function	line:72
 updatecache	../myvenv/local/lib/python2.7/linecache.py	/^def updatecache(filename, module_globals=None):$/;"	kind:function	line:72
-urlpatterns	../mysite/mysite/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urlpatterns	../my-first-blog/mysite/mysite/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urlpatterns	../mysite/blog/urls.py	/^urlpatterns = [$/;"	kind:variable	line:4
+urlpatterns	../mysite/mysite/urls.py	/^urlpatterns = [$/;"	kind:variable	line:4
+urls.py	../my-first-blog/mysite/mysite/urls.py	1;"	kind:file	line:1
+urls.py	../mysite/blog/urls.py	1;"	kind:file	line:1
 urls.py	../mysite/mysite/urls.py	1;"	kind:file	line:1
 utf_16.py	../myvenv/lib/python2.7/encodings/utf_16.py	1;"	kind:file	line:1
 utf_16.py	../myvenv/local/lib/python2.7/encodings/utf_16.py	1;"	kind:file	line:1
@@ -5222,6 +5268,7 @@ values	../myvenv/lib/python2.7/_abcoll.py	/^    def values(self):$/;"	kind:membe
 values	../myvenv/local/lib/python2.7/UserDict.py	/^    def values(self): return self.data.values()$/;"	kind:member	line:61
 values	../myvenv/local/lib/python2.7/UserDict.py	/^    def values(self):$/;"	kind:member	line:152
 values	../myvenv/local/lib/python2.7/_abcoll.py	/^    def values(self):$/;"	kind:member	line:416
+views.py	../my-first-blog/mysite/blog/views.py	1;"	kind:file	line:1
 views.py	../mysite/blog/views.py	1;"	kind:file	line:1
 virtual_addsitepackages	../myvenv/lib/python2.7/site.py	/^def virtual_addsitepackages(known_paths):$/;"	kind:function	line:642
 virtual_addsitepackages	../myvenv/local/lib/python2.7/site.py	/^def virtual_addsitepackages(known_paths):$/;"	kind:function	line:642
@@ -5255,6 +5302,7 @@ writelines	../myvenv/lib/python2.7/codecs.py	/^    def writelines(self, list):$/
 writelines	../myvenv/local/lib/python2.7/codecs.py	/^    def writelines(self, list):$/;"	kind:member	line:372
 writelines	../myvenv/local/lib/python2.7/codecs.py	/^    def writelines(self, list):$/;"	kind:member	line:708
 writelines	../myvenv/local/lib/python2.7/codecs.py	/^    def writelines(self, list):$/;"	kind:member	line:830
+wsgi.py	../my-first-blog/mysite/mysite/wsgi.py	1;"	kind:file	line:1
 wsgi.py	../mysite/mysite/wsgi.py	1;"	kind:file	line:1
 xmlcharrefreplace_errors	../myvenv/lib/python2.7/codecs.py	/^    xmlcharrefreplace_errors = None$/;"	kind:variable	line:1096
 xmlcharrefreplace_errors	../myvenv/lib/python2.7/codecs.py	/^    xmlcharrefreplace_errors = lookup_error("xmlcharrefreplace")$/;"	kind:variable	line:1089
